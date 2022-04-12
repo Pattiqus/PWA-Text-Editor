@@ -2,7 +2,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Description
 This Progressive Web Application is a fully functioning text editor which can be utilized to take notes on the fly , both on and offline.
-As a progressive web application (PWA), you can also download a copy of this applciation onto your device. The integrated service worker and Cache API's ensure that the applicaiton will remain fully functional even without and active internet connection, by cashing assets and API responses.\
+As a progressive web application (PWA), you can also download a copy of this applciation onto your device. The integrated service worker and Cache API's ensure that the applicaiton will remain fully functional even without and active internet connection, by caching assets and API responses.
 
 Functionality includes: 
 - The ability to store and edit text both on and offline
