@@ -38,9 +38,9 @@ Simply run the commant ```npm run start``` from your CLI or Terminal.
 The application should be listining on ```http://localhost:3000/```, which you can access in your preffered browser.
 
 # Screenshots
-<p>Create user</p>
+<p>Demonstration</p>
 
-- ![J.A.T.E](./assets/screenshots/JATE-function.gif)
+![J.A.T.E](./assets/screenshots/JATE-function.gif)
 
 
 
